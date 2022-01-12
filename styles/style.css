@@ -138,6 +138,7 @@ body {
     .player,
     .blog {
         flex-direction: column;
+        rotate: ;
     }
 }
 
